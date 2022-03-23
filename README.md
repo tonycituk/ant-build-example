@@ -1,4 +1,4 @@
-## Java project example tu use wit ant
+## Java project example using ant for tasks.
 
 ### To clean
 ```bash
